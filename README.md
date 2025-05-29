@@ -63,7 +63,7 @@
 </header>
 
 <nav>
-  <a href="https://cahcrvg.github.io/TrabalhoExtensao/">Evidências</a>
+  <a href="https://cahcrvg.github.io/Evidencias/">Evidências</a>
   <a href="#">Discentes</a>
 </nav>
 
