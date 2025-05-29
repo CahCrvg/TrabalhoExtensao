@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -64,7 +63,6 @@
 </header>
 
 <nav>
-  <a href="#">Início</a>
   <a href="#">Evidências</a>
   <a href="#">Discentes</a>
 </nav>
