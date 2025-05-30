@@ -44,7 +44,7 @@
       border-radius: 5px;
     }
     h1 {
-      color: Black;
+      color: White;
     }
     footer {
       background-color: #0078AA;
